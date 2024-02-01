@@ -1,6 +1,6 @@
-package com.example.jdev.controler;
+package com.example.teste.controler;
 
-import org.hibernate.mapping.List;
+//import org.hibernate.mapping.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
